@@ -1,1 +1,1 @@
-# rock-paper-sci-game
+This is my first Javasript project!
